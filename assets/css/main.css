@@ -56,6 +56,19 @@
 		box-sizing: border-box;
 	}
 
+.article-title{
+
+	font-size: 1.25em;
+	color: #3d4449;
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0 0 1em 0;
+
+}
+
+
+
 /* Grid */
 
 	.row {
